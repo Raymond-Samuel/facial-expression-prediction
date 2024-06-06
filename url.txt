@@ -1,0 +1,11 @@
+URL Dataset : 
+https://www.kaggle.com/datasets/muhammadafaq786/fer2013-images
+
+URL Model : 
+https://drive.google.com/file/d/1YwfKBWI1KEWAcQ7uWV4LOcCMP4itvBJ-/view?usp=sharing
+
+URL Model Best (Improvement):
+https://drive.google.com/file/d/1ktR0vXYyyLc907sZwXsIM4iI1amTLibU/view?usp=sharing
+
+URL deployment : 
+https://huggingface.co/spaces/Raymond-Samuel/GC-7

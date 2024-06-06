@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+pillow
+plotly
+scikit.learn==1.2.2
+tensorflow==2.15.0
+tensorflow_hub==0.16.1
